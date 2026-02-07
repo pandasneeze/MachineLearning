@@ -1,0 +1,13 @@
+# 가상 환경
+ml-env/
+
+# 파이썬 컴파일 결과물
+__pycache__/
+*.py[cod]
+
+# 주피터 노트북 체크포인트
+.ipynb_checkpoints/
+
+# 운영체제 생성 파일
+.DS_Store
+Thumbs.db
