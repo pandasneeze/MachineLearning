@@ -17,9 +17,10 @@ git clone https://github.com/pandasneeze/MachineLearning.git
 - 명령 프롬포트에 나타난 경로에 파일 자동 생성됨<br>
 #### vs code에서 해당 폴더 경로 찾아서 열기
 <img width="342" height="220" alt="image" src="https://github.com/user-attachments/assets/3aad52a9-e4f0-4fc3-97ea-a4e044dc1c36" /><br>
-`ctrl`+ `~`로 터미널 열기
 
 ### 2. 자기 이름 브랜치 만들기(최초 1회)
+`ctrl`+ `~`로 터미널 열기
+- 아래 코드 붙여넣기
 ```
 git branch 자기 이름
 git push -u origin 자기 이름
