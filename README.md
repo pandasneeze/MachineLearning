@@ -54,3 +54,4 @@ git push origin 브랜치이름
 - 무엇을 배웠는지 간단하게 요약
 - 이해 안 된 점
 - 토론하고 싶은 점
+- [마크다운 문법 모음](https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)
