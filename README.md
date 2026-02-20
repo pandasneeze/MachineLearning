@@ -9,12 +9,12 @@
 
 ## Guide
 ### 1. 레포 클론(최초 1회)
-#### 명령 프롬포트에 아래 코드 붙여넣기
+#### 명령 프롬프트에 아래 코드 붙여넣기
 ```
 git clone https://github.com/pandasneeze/MachineLearning.git
 ```
 <img width="151" height="42" alt="image" src="https://github.com/user-attachments/assets/c9368ada-3b92-4992-ba49-fe834c593d30" /><br>
-- 명령 프롬포트에 나타난 경로에 파일 자동 생성됨<br>
+- 명령 프롬프트에 나타난 경로에 파일 자동 생성됨<br>
 #### vs code에서 해당 폴더 경로 찾아서 열기
 <img width="342" height="220" alt="image" src="https://github.com/user-attachments/assets/3aad52a9-e4f0-4fc3-97ea-a4e044dc1c36" /><br>
 
